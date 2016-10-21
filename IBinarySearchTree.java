@@ -1,12 +1,9 @@
-//Student ID: 140009228
-//Date: 20 November 2015
-
-package W10Practical;
+package BinaryTreeImpl;
 
 /**
  * ADT providing operations on binary search trees.
  * 
- * @author 140009228
+ * @author Zoe Nash
  */
 
 public interface IBinarySearchTree {
