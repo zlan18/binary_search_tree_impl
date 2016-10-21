@@ -1,9 +1,6 @@
-//Student ID: 14009228
-//Date: 20 November 2015
+package BinaryTreeImpl;
 
-package W10Practical;
 import static org.junit.Assert.*;
-
 import org.junit.Before;
 import org.junit.Test;
 
