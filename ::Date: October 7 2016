@@ -1,6 +1,3 @@
-//Date: October 7 2016
-//Student ID: 14009228
-
 public class fgkTree {
 	private TreeNode root = null;
 }
